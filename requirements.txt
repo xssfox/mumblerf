@@ -1,0 +1,3 @@
+pyserial
+pymumble_py3
+pyaudio
